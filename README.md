@@ -18,7 +18,7 @@ Space Station 14 является ремейком СС13, которая раб
 
 ## Документация
 
-У СС14 [сайт документации](https://docs.spacestation14.com/) есть документация по контенту, движку и гейм-дизайну игры
+У СС14 [сайт документации](https://docs.spacestation14.com/) есть документация по контенту, движку и гейм-дизайну игры.
 Кроме того, информацию о лицензии и авторстве можно найти в следующих ресурсах:  
 - [Общая атрибуция Robust](https://docs.spacestation14.com/en/specifications/robust-generic-attribution.html)  
 
@@ -42,7 +42,7 @@ python RUN_THIS.py
 ```
 3. Соберите сборку:  
 
-Забилдите сборку проипсав `dotnet build`.
+Забилдите сборку прописав `dotnet build`.
 
 [Более подробные инструкции по созданию проекта.](https://docs.spacestation14.com/en/general-development/setup.html)
 
