@@ -11,6 +11,36 @@
   - StationAiIconDorf
   - StationAiIconHeartline
   - StationAiIconSmiley
+  # Europa-Start
+  - StationAiIconThinking
+  - StationAiIconXenomorph
+  - StationAiIconBanned
+  - StationAiIconDatabase
+  - StationAiIconFirewall
+  - StationAiIconGento
+  - StationAiIconGlitchman
+  - StationAiIconGondola
+  - StationAiIconGoon
+  - StationAiIconHelios
+  - StationAiIconHouse
+  - StationAiIconInverted
+  - StationAiIconMatrix
+  - StationAiIconMonochrome
+  - StationAiIconArmy
+  - StationAiIconNanotrasen
+  - StationAiIconNotMalf
+  - StationAiIconPresident
+  - StationAiIconRainbow
+  - StationAiIconRed
+  - StationAiIconRedOctober
+  - StationAiIconStatic
+  - StationAiIconMeow
+  - StationAiIconText
+  - StationAiIconTooDeep
+  - StationAiIconTriumvirate
+  - StationAiIconTriumvirateMalf
+  - StationAiIconWeird
+  # Europa-End
 
 - type: stationAiCustomizationGroup
   id: StationAiHolograms
@@ -24,6 +54,10 @@
   - StationAiHologramDog
   - StationAiHologramKobold
   - StationAiHologramMonkey
+  # Europa-Start
+  - StationAiHologramHorror
+  - StationAiHologramXenomorphQueen
+  # Europa-End
 
 # Iconography
 - type: stationAiCustomization
